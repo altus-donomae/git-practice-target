@@ -6,3 +6,7 @@
 ターゲットリポジトリのページ: https://github.com/altus-donomae/git-practice-target  
 ターゲットリポジトリのクローンURL: https://github.com/altus-donomae/git-practice-target.git
 
+---
+
+Issue 1
+README.mdを編集
