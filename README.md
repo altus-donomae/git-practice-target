@@ -3,6 +3,6 @@
 
 ---
 
-ターゲットリポジトリのページ: https://github.com/altus-donomae/git-practice-target
+ターゲットリポジトリのページ: https://github.com/altus-donomae/git-practice-target  
 ターゲットリポジトリのクローンURL: https://github.com/altus-donomae/git-practice-target.git
 
